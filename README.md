@@ -4,6 +4,6 @@ En un hospital, el personal médico se enfrenta al reto de diagnosticar y tratar
 
 # Problema 2 - Piña
 
-
+Un establecimiento educativo require saber cual es el nivel operativo a nivel de funcionamiento del mismo, es por eso que requiere que se realice un diagrama ontologico de los procesos que se requieren para las admisiones dentro del establecimiento, además de incluí el proceso y interaccion de cada uno de las interacciones entre cada una de las entidades que forman parte de la entidad educativa.
 # Problema 3 - Rey
 Diseñar una ontología que capture el conocimiento y las relaciones involucradas en un sistema de gestión de pedidos de comida en línea para una plataforma de entrega de alimentos a domicilio.
